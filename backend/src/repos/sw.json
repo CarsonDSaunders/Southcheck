@@ -1,0 +1,317 @@
+{
+    "reservations": [
+        {
+            "viewReservationViewPage": {
+                "dates": {
+                    "first": "2022-11-19",
+                    "second": "2022-11-26"
+                },
+                "messages": null,
+                "changeBlockedMessage": null,
+                "cancelBlockedMessage": null,
+                "checkInIneligibilityReason": null,
+                "greyBoxMessage": null,
+                "greyBoxPassengerMessage": null,
+                "destinationDescription": "Nashville",
+                "originAirport": {
+                    "name": "Salt Lake City",
+                    "state": "UT",
+                    "code": "SLC",
+                    "country": null
+                },
+                "destinationAirport": {
+                    "name": "Nashville",
+                    "state": "TN",
+                    "code": "BNA",
+                    "country": null
+                },
+                "companion": null,
+                "passengers": [
+                    {
+                        "name": "Danielle Jayne Glasgow",
+                        "accountNumber": null,
+                        "passengerReference": "2",
+                        "hasAnyEarlyBird": false,
+                        "hasCompletePassportInfo": false,
+                        "checkInIneligibilityReason": null,
+                        "isCheckedIn": false,
+                        "isCheckInEligible": false,
+                        "isUnaccompaniedMinor": false
+                    },
+                    {
+                        "name": "Carson David Saunders",
+                        "accountNumber": null,
+                        "passengerReference": "3",
+                        "hasAnyEarlyBird": false,
+                        "hasCompletePassportInfo": false,
+                        "checkInIneligibilityReason": null,
+                        "isCheckedIn": false,
+                        "isCheckInEligible": false,
+                        "isUnaccompaniedMinor": false
+                    }
+                ],
+                "dayOfTravelContactInfo": "Text: 402-884-1424",
+                "confirmationNumber": "3CE52N",
+                "shouldShowAddEarlyBirdButton": true,
+                "bounds": [
+                    {
+                        "departureStatus": null,
+                        "departureStatusType": null,
+                        "arrivalStatus": null,
+                        "arrivalStatusType": null,
+                        "flights": [
+                            {
+                                "number": "892",
+                                "wifiOnBoard": true,
+                                "aircraftInfo": {
+                                    "aircraftType": "Boeing 737-800",
+                                    "numberOfSeats": 175,
+                                    "wifiSupported": true
+                                }
+                            }
+                        ],
+                        "travelTime": "3h 10m",
+                        "departureDate": "2022-11-19",
+                        "departureTime": "10:30",
+                        "departureAirport": {
+                            "name": "Salt Lake City",
+                            "state": "UT",
+                            "code": "SLC",
+                            "country": null
+                        },
+                        "arrivalTime": "14:40",
+                        "arrivalAirport": {
+                            "name": "Nashville",
+                            "state": "TN",
+                            "code": "BNA",
+                            "country": null
+                        },
+                        "passengerTypeCounts": {
+                            "adult": 2
+                        },
+                        "passengers": [
+                            {
+                                "type": "Passengers",
+                                "count": 2,
+                                "fareType": "Wanna Get Away"
+                            }
+                        ],
+                        "boundType": "DEPARTING",
+                        "standbyFlight": null,
+                        "fareProductDetails": {
+                            "label": "Wanna Get Away",
+                            "fareRulesUrl": "https://mobile.southwest.com/fare-rules/wanna-get-away",
+                            "fareProductId": "WGA"
+                        },
+                        "stops": [],
+                        "isNextDayArrival": false
+                    },
+                    {
+                        "departureStatus": null,
+                        "departureStatusType": null,
+                        "arrivalStatus": null,
+                        "arrivalStatusType": null,
+                        "flights": [
+                            {
+                                "number": "3146",
+                                "wifiOnBoard": true,
+                                "aircraftInfo": {
+                                    "aircraftType": "Boeing 737-700",
+                                    "numberOfSeats": 143,
+                                    "wifiSupported": true
+                                }
+                            }
+                        ],
+                        "travelTime": "4h 0m",
+                        "departureDate": "2022-11-26",
+                        "departureTime": "18:10",
+                        "departureAirport": {
+                            "name": "Nashville",
+                            "state": "TN",
+                            "code": "BNA",
+                            "country": null
+                        },
+                        "arrivalTime": "21:10",
+                        "arrivalAirport": {
+                            "name": "Salt Lake City",
+                            "state": "UT",
+                            "code": "SLC",
+                            "country": null
+                        },
+                        "passengerTypeCounts": {
+                            "adult": 2
+                        },
+                        "passengers": [
+                            {
+                                "type": "Passengers",
+                                "count": 2,
+                                "fareType": "Wanna Get Away"
+                            }
+                        ],
+                        "boundType": "RETURNING",
+                        "standbyFlight": null,
+                        "fareProductDetails": {
+                            "label": "Wanna Get Away",
+                            "fareRulesUrl": "https://mobile.southwest.com/fare-rules/wanna-get-away",
+                            "fareProductId": "WGA"
+                        },
+                        "stops": [],
+                        "isNextDayArrival": false
+                    }
+                ],
+                "pageHeader": "SLC - BNA",
+                "shareDetails": {
+                    "subject": "Southwest Flight 892 Salt Lake City to Nashville",
+                    "confirmationInfo": "Confirmation #: 3CE52N",
+                    "passengerInfo": "Passenger name(s): Danielle Jayne Glasgow, Carson David Saunders",
+                    "flightInfo": [
+                        {
+                            "header": "Departing Flight: Sat, Nov 19, 2022",
+                            "title": "Southwest Flight 892 Salt Lake City to Nashville",
+                            "flightInfo": "Flight #: 892",
+                            "departureInfo": "Departs: 10:30 AM SLC",
+                            "departureDateTime": "2022-11-19T10:30:00.000-07:00",
+                            "stops": null,
+                            "arrivalInfo": "Arrives: 02:40 PM BNA",
+                            "arrivalDateTime": "2022-11-19T14:40:00.000-06:00",
+                            "travelTime": "Travel time: 3hr 10 mins"
+                        },
+                        {
+                            "header": "Returning Flight: Sat, Nov 26, 2022",
+                            "title": "Southwest Flight 3146 Nashville to Salt Lake City",
+                            "flightInfo": "Flight #: 3146",
+                            "departureInfo": "Departs: 06:10 PM BNA",
+                            "departureDateTime": "2022-11-26T18:10:00.000-06:00",
+                            "stops": null,
+                            "arrivalInfo": "Arrives: 09:10 PM SLC",
+                            "arrivalDateTime": "2022-11-26T21:10:00.000-07:00",
+                            "travelTime": "Travel time: 4hr 0 mins"
+                        }
+                    ]
+                },
+                "viewReservationAnalytics": {
+                    "recordLocator": "3CE52N",
+                    "gdsTicketType": null,
+                    "tripType": "roundTrip",
+                    "daysToTrip": "74",
+                    "multipax": "1",
+                    "isInternational": false,
+                    "isSwabiz": false
+                },
+                "checkinCountdownTimeStamp": null,
+                "upsellDetails": {
+                    "upsellToProductId": "BUS",
+                    "offerTitle": "Upgrade to Business Select",
+                    "offerText": null,
+                    "offerIcon": null,
+                    "offerFeatures": [
+                        {
+                            "icon": "check",
+                            "label": "Guaranteed A1-A15 boarding"
+                        },
+                        {
+                            "icon": "check",
+                            "label": "Refundable fare",
+                            "suffix": "*"
+                        },
+                        {
+                            "icon": "check",
+                            "label": "12 Rapid Rewards® points per dollar"
+                        }
+                    ]
+                },
+                "fareRulesWithLinks": "*Please read <a href=\"https://mobile.southwest.com/fare-rules\" target=\"_blank\">fare rules</a> associated with purchase.",
+                "hasAnyCancelledFlights": false,
+                "isCheckInEligible": false,
+                "isCheckedIn": false,
+                "isInternational": false,
+                "isDynamicWaiver": false,
+                "isNonRevPnr": false,
+                "isSwabiz": false,
+                "_links": {
+                    "checkInSessionToken": null,
+                    "earlyBird": {
+                        "href": "/v1/mobile-air-booking/page/early-bird/3CE52N",
+                        "method": "GET",
+                        "query": {
+                            "first-name": "Danielle",
+                            "last-name": "Glasgow",
+                            "passenger-search-token": "1SnrqHAvsMGyF0v3lkis-_stKtvKXwkWqjTJ0yle1CKrFMkvIfwYNDQSiZVRL7a2dkMAUbP5Dzt50TICJI9JW17jNwSf9EPnovjemxWFlGQaqMnn-BQSes-Yv3IPbvhcPA1xCS7UU9M3ImXlgVIIPc6H"
+                        }
+                    },
+                    "change": {
+                        "href": "/v1/mobile-air-booking/page/flights/change/current/3CE52N",
+                        "method": "GET",
+                        "query": {
+                            "first-name": "Danielle",
+                            "last-name": "Glasgow",
+                            "passenger-search-token": "1SnrqHAvsMGyF0v3lkis-_stKtvKXwkWqjTJ0yle1CKrFMkvIfwYNDQSiZVRL7a2dkMAUbP5Dzt50TICJI9JW17jNwSf9EPnovjemxWFlGQaqMnn-BQSes-Yv3IPbvhcPA1xCS7UU9M3ImXlgVIIPc6H"
+                        }
+                    },
+                    "reaccom": null,
+                    "viewStandbyList": null,
+                    "checkIn": null,
+                    "countdownCheckIn": null,
+                    "contactInformation": {
+                        "href": "/v1/mobile-air-booking/page/view-reservation/contact-info/3CE52N",
+                        "method": "GET",
+                        "query": {
+                            "passenger-search-token": "1SnrqHAvsMGyF0v3lkis-_stKtvKXwkWqjTJ0yle1CKrFMkvIfwYNDQSiZVRL7a2dkMAUbP5Dzt50TICJI9JW17jNwSf9EPnovjemxWFlGQaqMnn-BQSes-Yv3IPbvhcPA1xCS7UU9M3ImXlgVIIPc6H"
+                        }
+                    },
+                    "viewBoardingPassIssuance": null,
+                    "viewBoardingPositions": null,
+                    "addCompanion": null,
+                    "editPNRPassengers": [
+                        {
+                            "href": "/v1/mobile-air-booking/page/view-reservation/edit-pnr-passenger/3CE52N",
+                            "method": "GET",
+                            "query": {
+                                "first-name": "Danielle",
+                                "last-name": "Glasgow",
+                                "passenger-reference": "2",
+                                "passenger-search-token": "uLZQ1JXqITGIde0s2oeDDR7IvbVdu1h2V1UGF8v1S7wUQiipdW95edEcPycBax2SQ8A9oT2TK0EPwgq1r3tRVvgQIWrWinLQLoX4j9vGSIWo_NwudMJE33WS7-iD4dB6TLFKyhY4MDGA-zkOJw5OVzzQ"
+                            }
+                        },
+                        {
+                            "href": "/v1/mobile-air-booking/page/view-reservation/edit-pnr-passenger/3CE52N",
+                            "method": "GET",
+                            "query": {
+                                "first-name": "Carson",
+                                "last-name": "Saunders",
+                                "passenger-reference": "3",
+                                "passenger-search-token": "p1fs1yNiOpVD-b2Wt8Ty-gH_N3JcR7wCcj3L7BEJCLAWhmgM6EE6cfjXSNqXFsb4uFRtAH6SPE6ZPVIX3DvQH9d3GIcmD1CKAghL3pbos6FyzZGf_bkF75-InlDDq0FQl71Oml-Efx3LLpmEPgwvTRs="
+                            }
+                        }
+                    ],
+                    "cancelBound": {
+                        "href": "/v1/mobile-air-booking/page/flights/cancel-bound/3CE52N",
+                        "method": "GET",
+                        "query": {
+                            "passenger-search-token": "1SnrqHAvsMGyF0v3lkis-_stKtvKXwkWqjTJ0yle1CKrFMkvIfwYNDQSiZVRL7a2dkMAUbP5Dzt50TICJI9JW17jNwSf9EPnovjemxWFlGQaqMnn-BQSes-Yv3IPbvhcPA1xCS7UU9M3ImXlgVIIPc6H"
+                        }
+                    },
+                    "contactTracing": null,
+                    "upgradeMyFlight": {
+                        "href": "/v1/mobile-air-booking/page/upgrade/3CE52N",
+                        "method": "POST",
+                        "body": {
+                            "passengerSearchToken": "QMdz1wFoTT6-JTQmwkuseWgia3NhqgwqPC3MBBhLEh-VLQYBLHwjjkgKig_i79g-5ojyf3n25M7QbGVv7gUk14xCTotIzEeliuz1ptFGGaFcpFpwk3bFwxTj80omkURkizXwrSOV1e0uTA8v3yZOqQpA"
+                        },
+                        "labelText": null
+                    }
+                },
+                "hasUnaccompaniedMinor": false,
+                "_analytics": {
+                    "air.odout": "SLCBNA",
+                    "air.odrtn": "BNASLC"
+                },
+                "mktg_data": {
+                    "pnrtype": "UNCLASSIFIED",
+                    "pnrsubtype": "UNCLASSIFIED",
+                    "pnrdigitalchannelsource": "SOUTHWEST"
+                }
+            }
+        }
+    ]
+}

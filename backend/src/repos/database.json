@@ -1,1 +1,39 @@
-{"users":[{"name":"Sean Maxwell","email":"sean.maxwell@gmail.com","pwdHash":"$2b$12$1mE2OI9hMS/rgH9Mi0s85OM2V5gzm7aF3gJIWH1y0S1MqVBueyjsy","role":1,"id":159123164363},{"name":"Gordan Freeman","email":"gordan.freeman@halflife.com","pwdHash":"$2b$12$1mE2OI9hMS/rgH9Mi0s85OM2V5gzm7aF3gJIWH1y0S1MqVBueyjsy","role":0,"id":906524522143},{"name":"John Smith","email":"jsmith@yahoo.com","pwdHash":"$2b$12$1mE2OI9hMS/rgH9Mi0s85OM2V5gzm7aF3gJIWH1y0S1MqVBueyjsy","role":0,"id":357437875835}]}
+{
+    "users": [
+        {
+            "name": "Sean Maxwell",
+            "email": "sean.maxwell@gmail.com",
+            "pwdHash": "$2b$12$1mE2OI9hMS/rgH9Mi0s85OM2V5gzm7aF3gJIWH1y0S1MqVBueyjsy",
+            "role": 1,
+            "id": 159123164363
+        }
+    ],
+    "airports": [
+        {
+            "status": 1,
+            "offset": 0,
+            "max": "1",
+            "airports": [
+                {
+                    "name": "Salt Lake City International Airport",
+                    "city": "Salt Lake City",
+                    "country": "United States",
+                    "country_code": null,
+                    "iata": "SLC",
+                    "icao": "KSLC",
+                    "x": "-111.97799682617188",
+                    "y": "40.78839874267578",
+                    "elevation": "4227",
+                    "apid": "3536",
+                    "timezone": "-7",
+                    "dst": "A",
+                    "tz_id": "America/Denver",
+                    "type": "airport",
+                    "source": "OurAirports",
+                    "ap_uid": null,
+                    "ap_name": "Salt Lake City Internation. (SLC), United States"
+                }
+            ]
+        }
+    ]
+}
